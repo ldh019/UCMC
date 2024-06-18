@@ -3,7 +3,6 @@ import com.gta.buildsrc.Configuration
 plugins {
     id("com.android.library")
     kotlin("android")
-    id("com.google.gms.google-services")
     kotlin("kapt")
     id("dagger.hilt.android.plugin")
     id("de.mannodermaus.android-junit5")

@@ -12,7 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
         // Required in naver map
         jcenter()
-        maven("https://naver.jfrog.io/artifactory/maven/")
+        maven("https://repository.map.naver.com/archive/maven/")
         maven("https://jitpack.io/")
     }
 }

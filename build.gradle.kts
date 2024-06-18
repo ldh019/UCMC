@@ -20,6 +20,7 @@ plugins {
     id("com.android.library") version Dependencies.Versions.ANDROID apply false
     id("org.jetbrains.kotlin.android") version Dependencies.Versions.KOTLIN apply false
     id("org.jetbrains.kotlin.jvm") version Dependencies.Versions.KOTLIN apply false
+    id("com.google.gms.google-services") version Dependencies.Versions.PLAY_SERVICES apply false
 }
 
 subprojects {

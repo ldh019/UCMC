@@ -4,7 +4,7 @@ object Dependencies {
     object Versions {
         const val ANDROID = "7.3.0"
 
-        // AndrdoidX
+        // AndroidX
         const val APP_COMPAT = "1.5.1"
         const val MATERIAL = "1.7.0"
         const val CONSTRAINT_LAYOUT = "2.1.4"
@@ -14,19 +14,19 @@ object Dependencies {
         const val SWIPE_REFRESH_LAYOUT = "1.1.0"
 
         // KTX
-        const val KOTLIN = "1.7.10"
+        const val KOTLIN = "1.9.0"
         const val CORE = "1.9.0"
         const val COROUTINE = "1.6.4"
 
         // Google Play Service
-        const val PLAY_SERVICES = "4.3.14"
+        const val PLAY_SERVICES = "4.3.8"
         const val PLAY_SERVICES_AUTH = "20.3.0"
-        const val PLAY_SERVICES_LOCATION = "20.0.0"
+        const val PLAY_SERVICES_LOCATION = "21.3.0"
 
         // Jetpack
         const val LIFECYCLE = "2.5.1"
         const val NAVIGATION = "2.5.3"
-        const val HILT = "2.44"
+        const val HILT = "2.48"
         const val VIEW_PAGER = "1.0.0"
         const val ROOM = "2.4.3"
         const val PAGING = "3.1.1"
@@ -36,7 +36,7 @@ object Dependencies {
         // Custom
         const val TIMBER = "5.0.1"
         const val GLIDE = "4.14.2"
-        const val NAVER_MAPS = "3.16.0"
+        const val NAVER_MAPS = "3.18.0"
         const val STREAM_CHAT = "5.11.0"
         const val GOOGLE_SIGNIN_BUTTON = "1.1.0"
 
